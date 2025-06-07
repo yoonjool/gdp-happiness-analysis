@@ -2,6 +2,14 @@
 
 This project explores how GDP and other quality of life indicators relate to happiness scores across global regions, using data from the World Happiness Report and the Global Open Data Index. The goal is to identify key factors that influence happiness and to build a regression model that quantifies their impact.
 
+## My Contributions
+
+- Led the entire analysis process, including data cleaning, visualization, and regression modeling  
+- Explored the relationship between happiness scores and quality-of-life indicators such as GDP, family support, health, and freedom across global regions  
+- Built and evaluated both simple and multiple linear regression models to assess variable importance  
+- Visualized results to identify regional patterns and interpret correlations between variables
+
+
 ## Dataset
 
 Two primary datasets were used:
