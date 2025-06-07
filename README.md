@@ -47,7 +47,7 @@ After merging the datasets, 118 countries with complete information were include
 - Freedom and openness contribute positively but are less impactful
 - Western Europe and North America show consistently high happiness and indicator scores, while Sub-Saharan Africa shows lower scores and greater variability
 
-## Visualizations
+## Key Visualizations
 
 ### 1. Relationship between GDP and Happiness
 This scatter plot shows a strong positive correlation between GDP per capita and happiness scores. A regression line is added to highlight the trend.
